@@ -1,6 +1,5 @@
 # TG-RENAMER-BOT
-## Rename Bot - Clone of  [Renamer⚡](https://t.me/renamer_Ns_bot)
----
+## Rename Bot - Clone of  [Renamer⚡](http://t.me/Spk_moviesv2_bot)
 
 An Open Source Rename Telegram RoBot
 
@@ -12,7 +11,7 @@ An Open Source Rename Telegram RoBot
 
 #### The Easy Way
 
-**Watch infotel Video for knowing how to Create yoir own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
+
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
